@@ -1,0 +1,11 @@
+/Users/shoji/workspace/rust/programming-rust/chapter2/web-page/target/debug/deps/tokio_udp-40b1c30658a8e382.rmeta: /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/lib.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/frame.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/recv_dgram.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/send_dgram.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/socket.rs
+
+/Users/shoji/workspace/rust/programming-rust/chapter2/web-page/target/debug/deps/libtokio_udp-40b1c30658a8e382.rlib: /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/lib.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/frame.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/recv_dgram.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/send_dgram.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/socket.rs
+
+/Users/shoji/workspace/rust/programming-rust/chapter2/web-page/target/debug/deps/tokio_udp-40b1c30658a8e382.d: /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/lib.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/frame.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/recv_dgram.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/send_dgram.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/socket.rs
+
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/lib.rs:
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/frame.rs:
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/recv_dgram.rs:
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/send_dgram.rs:
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-udp-0.1.6/src/socket.rs:

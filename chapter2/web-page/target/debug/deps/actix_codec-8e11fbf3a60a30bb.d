@@ -1,0 +1,11 @@
+/Users/shoji/workspace/rust/programming-rust/chapter2/web-page/target/debug/deps/actix_codec-8e11fbf3a60a30bb.rmeta: /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/lib.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/bcodec.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_read.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/shoji/workspace/rust/programming-rust/chapter2/web-page/target/debug/deps/libactix_codec-8e11fbf3a60a30bb.rlib: /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/lib.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/bcodec.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_read.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/shoji/workspace/rust/programming-rust/chapter2/web-page/target/debug/deps/actix_codec-8e11fbf3a60a30bb.d: /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/lib.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/bcodec.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_read.rs /Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/lib.rs:
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/bcodec.rs:
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed.rs:
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_read.rs:
+/Users/shoji/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_write.rs:
